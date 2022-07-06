@@ -95,10 +95,13 @@ li{
 }
 .same{ 
     width: 50%;
-    padding: 6%;
+    padding: 5%;
 }
 .same img{
-    width: 80%;
+    width: 90%;
+    border-radius: 2%;
+   
+    
 }
  
 .top-banner{
@@ -109,7 +112,7 @@ li{
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: rigt;
 }
 .padding-style{
     padding-bottom: 15px;
