@@ -1,0 +1,182 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    color: gray;
+}
+.style-in-hading{
+    text-align: center;
+    background-image: url(images/donation1.jpg);
+    padding: 15%;
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    
+}
+.style-in-hading h1{
+    color: white;
+}
+ h1{
+    font-size: 40px;
+    color: black;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px; 
+    align-items: center;
+    justify-content: center;
+}
+#margin{
+    margin-top: 5%;
+}
+.centerone{
+    text-align: center;
+    padding: 5px;
+    justify-content: center;
+    
+}
+.center{
+    display: flex;
+    text-align: center;
+    padding-left: 25px;
+    justify-content: center;
+    list-style-type: none;
+    font-weight: 900;
+    font-size: 24px;
+    color: gray;
+    
+} 
+#broder{
+    border: solid;
+    color: #e96113;
+    padding: 25px 10px  25px 10px;
+    border-radius: 5px;
+    
+}
+li{
+    text-decoration: none; 
+    padding: 20px 20px;
+    margin-right: 1%;
+
+}
+.amount{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+   
+}
+.border{
+    border-bottom: 1px solid gray;
+    height: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+.next-btm{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px; 
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 43.8%;
+    
+}
+
+.flexcontenar{
+    
+    display: flex;
+    margin-bottom: 100px;
+}
+.same{ 
+    width: 50%;
+    padding: 6%;
+}
+.same img{
+    width: 80%;
+}
+ 
+.top-banner{
+   
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.padding-style{
+    padding-bottom: 15px;
+}
+.input-add{
+    background: rgb(228, 228, 107);
+    width: 30%;
+    margin: 100px auto;
+    padding: 70px 150px;
+    align-items: center;
+    justify-content: center;    
+}
+.divone{
+    background-color: lightblue;
+    width: 20%;
+    height: 30%;
+    margin-right: 11px;
+    padding: 3% 1% 3% 1%;
+}
+.divtwo{
+    background-color: cornsilk;
+    width: 20%;
+    height: 30%;
+    margin-right: 11px;
+    padding: 3% 1% 3% 1%;
+}
+.divthree{
+    background-color: rgb(153, 140, 149);
+    width: 20%;
+    height: 30%;
+    margin-right: 11px;
+    padding: 3% 1% 3% 1%;
+}
+.div-style{
+    display: flex;
+    justify-content: center;
+}
+.div-style h2{
+    color: black;
+}
+.buttontwo{
+    text-decoration: none;
+   
+   padding: 10px 40px;
+   color: white;
+   font-weight: 700;
+   border-radius: 5px; 
+
+}
+.footer{
+    background-color: black;
+    background-size: 90% 40%;
+    padding: 7%;
+    color: gray;
+
+    
+}
+.footer h2{
+    text-align: center;
+    justify-content: center;
+    color: #e96113;
+    font-style: italic;
+    font-family: 'Lobster', cursive;
+
+}
+.last-time{
+    text-align: center;
+    justify-content: center;
+    
+}
